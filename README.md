@@ -36,8 +36,8 @@ Feel free to check out some of my Medium articles that are relevant to this topi
 To get started, clone this repository to your local machine and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/yourusername/life_expectancy_analysis.git
-cd life_expectancy_analysis
+git clone https://github.com/J-Jurza/tutorial_predicting_life_expectancy.git
+cd tutorial_predicting_life_expectancy
 pip install -r requirements.txt
 ```
 
